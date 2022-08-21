@@ -10,7 +10,7 @@ Git Tutorial commands
 <p align="center"><a href="https://www.pigno.se/barn/tutorial-git/docs" target="_blank">가이드 페이지에서 보기</a></p>
 
 <p align="center"><a href="https://velog.io/@delilah/GitHub-Git-명령어-모음" target="_blank">Git 명령어 모음</a></p>
-
+<p align="center"><a href="https://bioinfoblog.tistory.com/11" target="_blank">Shell 명령어 모음</a></p>
 
 ## :innocent: 바쁘잖아요 다들
 
