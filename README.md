@@ -11,6 +11,7 @@ Git Tutorial commands
 
 <p align="center"><a href="https://velog.io/@delilah/GitHub-Git-명령어-모음" target="_blank">Git 명령어 모음</a></p>
 <p align="center"><a href="https://bioinfoblog.tistory.com/11" target="_blank">Shell 명령어 모음</a></p>
+<p align="center"><a href="[https://bioinfoblog.tistory.com/11](https://kimcoder.tistory.com/274?category=931897)" target="_blank">Shell 명령어 chmod</a></p>
 
 ## :innocent: 바쁘잖아요 다들
 
