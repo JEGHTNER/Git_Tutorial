@@ -12,9 +12,9 @@ Git Tutorial commands
 
 ## :innocent: 1.git 명령어 모음
 - Git 설치 (for ubuntu)
-	1) 터미널 (ctrl + Alt + T)
-	2) sudo apt install git 입력 (=> 설치완료)
-	3) git --version 입력 (=> 설치 확인 및 버전 확인)
+	터미널 (ctrl + Alt + T)
+	sudo apt install git 입력 (=> 설치완료)
+	git --version 입력 (=> 설치 확인 및 버전 확인)
 
 ## :flushed: 누가 읽어야 할까요
 
