@@ -9,6 +9,9 @@ Git Tutorial commands
 
 <p align="center"><a href="https://www.pigno.se/barn/tutorial-git/docs" target="_blank">가이드 페이지에서 보기</a></p>
 
+<p align="center"><a href="https://velog.io/@delilah/GitHub-Git-명령어-모음" target="_blank">Git 명령어 모음</a></p>
+https://velog.io/@delilah/GitHub-Git-명령어-모음
+
 ## :innocent: 바쁘잖아요 다들
 
 - 읽는데 걸리는 예상시간 `15분`
